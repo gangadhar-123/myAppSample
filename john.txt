@@ -1,1 +1,9 @@
-This is new file
+Rainbow
+
+Rainbow has few Colours
+Red
+Green
+Blue
+Pink
+Yellow 
+White
